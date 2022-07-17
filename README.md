@@ -77,3 +77,19 @@ yarn add axios
 yarn add react-router-dom
 
 yarn add @material-ui/core
+
+
+
+echo "# tct-music-chart" >> README.md
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/balrocha/tct-music-chart.git
+
+git push -u origin main
